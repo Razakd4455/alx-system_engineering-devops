@@ -1,2 +1,2 @@
 #!/bin/bash
-$binary=$(([2]decimal))
+decimal=$((2#$binary))
